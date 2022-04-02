@@ -12,4 +12,4 @@ Finally, run the `MusicPlay.py` file using `python MusicPlay.py`.
 
 # Samples Images of the GUI
 
-[!Interface](https://github.com/ahmedheakl/Music_Player_App_Using_Tkinter_MySQL/blob/main/sample_imgs/interface.png)
+<img width='600' heigh='550' src='https://github.com/ahmedheakl/Music_Player_App_Using_Tkinter_MySQL/blob/main/sample_imgs/interface.png'>
